@@ -1,7 +1,7 @@
 ### Привет всем!
 
 
-![This is an image](https://github.com/ae19ae-qa/ae19ae-qa/blob/e0dfc99d865fcae6df288468f20a70d1b00b1f8c/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)
+![This is an image](https://github.com/ae19ae-qa/ae19ae-qa/blob/579c191c20d8b1c1ed72769324839cfb3a4b0ed8/%D0%A4%D0%BE%D0%BD.png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ae19ae-qa-images.githubusercontent.com/">
