@@ -1,8 +1,8 @@
 ### Привет всем!
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-[https//ae19ae-qa.ru](docs/2-копия.jpg)
+![This is an image](https://github.com/ae19ae-qa/ae19ae-qa/blob/e0dfc99d865fcae6df288468f20a70d1b00b1f8c/2%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ae19ae-qa-images.githubusercontent.com/">
  
@@ -44,3 +44,6 @@
 
 ### Могу научиться:
 - Тому, что будет необходимо для эффективной командной работе.
+  
+### Могу научить:
+- Писать тест-кейсы и баг-репорты, делать отчеты о тестировании, готовить чек-листы
