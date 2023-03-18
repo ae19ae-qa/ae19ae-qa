@@ -9,7 +9,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="SuperTest - это здесь: ссылка на сайт" src="YOUR-DEFAULT-IMAGE">
+ <"SuperTest - это здесь: ссылка на сайт">
 </picture>
 
 
