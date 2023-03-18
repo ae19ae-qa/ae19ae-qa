@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ae19ae-qa/ae19ae-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ae19ae-qa-images.githubusercontent.com/">
