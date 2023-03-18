@@ -4,7 +4,7 @@
 **ae19ae-qa/ae19ae-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ae19ae-qa/ae19ae-qa/edit/main/2 — копия.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/ae19ae-qa/ae19ae-qa/edit/main/2 — копия.jpg](https://github.com/ae19ae-qa/ae19ae-qa/commit/b5fdc1e6dd11df4b45fe96ea0cf037b31da6d362)">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
